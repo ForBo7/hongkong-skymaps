@@ -1,0 +1,14 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "hongkong-skymaps"
+  site-url: "https://ForBo7.github.io/hongkong-skymaps"
+  description: "Getting you from A to B via Hong Kong's skys."
+  repo-branch: main
+  repo-url: "https://github.com/ForBo7/hongkong-skymaps"
+
+format-links:
+  - html
+  - format: commonmark
+    text: Markdown
