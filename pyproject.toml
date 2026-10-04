@@ -31,3 +31,5 @@ version = {attr = "hongkong_skymaps.__version__"}
 include = ["hongkong_skymaps"]
 
 [tool.nbdev]
+allowed_metadata_keys = ['solveit']
+allowed_cell_metadata_keys = ['solveit_ai']
